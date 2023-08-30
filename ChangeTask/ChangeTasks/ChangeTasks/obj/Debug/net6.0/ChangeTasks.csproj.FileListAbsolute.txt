@@ -1,0 +1,15 @@
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\bin\Debug\net6.0\ChangeTasks.exe
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\bin\Debug\net6.0\ChangeTasks.deps.json
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\bin\Debug\net6.0\ChangeTasks.runtimeconfig.json
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\bin\Debug\net6.0\ChangeTasks.dll
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\bin\Debug\net6.0\ChangeTasks.pdb
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.csproj.AssemblyReference.cache
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.AssemblyInfoInputs.cache
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.AssemblyInfo.cs
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.csproj.CoreCompileInputs.cache
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.dll
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\refint\ChangeTasks.dll
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.pdb
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ChangeTasks.genruntimeconfig.cache
+C:\Projects\ChangeTask\ChangeTasks\ChangeTasks\obj\Debug\net6.0\ref\ChangeTasks.dll

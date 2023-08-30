@@ -1,0 +1,15 @@
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\bin\Debug\net6.0\XmlReader.exe
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\bin\Debug\net6.0\XmlReader.deps.json
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\bin\Debug\net6.0\XmlReader.runtimeconfig.json
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\bin\Debug\net6.0\XmlReader.dll
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\bin\Debug\net6.0\XmlReader.pdb
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.csproj.AssemblyReference.cache
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.AssemblyInfoInputs.cache
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.AssemblyInfo.cs
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.csproj.CoreCompileInputs.cache
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.dll
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\refint\XmlReader.dll
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.pdb
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\XmlReader.genruntimeconfig.cache
+C:\Projects\ChangeTask\ChangeTasks\XmlReader\obj\Debug\net6.0\ref\XmlReader.dll
